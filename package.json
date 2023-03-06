@@ -1,0 +1,13 @@
+{
+  "name": "demo-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "create-public": "node create-public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
